@@ -1,1 +1,2 @@
-# Boostrap-Portfolio
+# Responsive-Portfolio
+Homework 2
